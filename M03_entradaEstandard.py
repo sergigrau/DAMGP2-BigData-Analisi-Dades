@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 #	Escriu un programa que demana dos nombres i presenta les operacions aritmètiques bàsiques
-
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versió: 15.02.2017
 #       
 x=2 #escriure 2.0 si es vol real
 y=3

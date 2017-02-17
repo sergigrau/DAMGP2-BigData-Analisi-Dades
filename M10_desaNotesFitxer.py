@@ -5,8 +5,8 @@
 #	la informació corresponen al nom de l'alumne i de la seva nota de curs.
 #	Per indicar que no queden més alumnes, utilitzem el mot FI. 
 #	Finalment mostra una llista de les qualificacions, de més a menys, així com la mitjana de les notes.
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versió: 15.02.2017
 #
 nom=''
 nota=''

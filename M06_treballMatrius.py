@@ -3,8 +3,8 @@
 #	Crea una matriu de 3x3 i mostra la informació dels següents elements: 
 #	tota la matriu, element cantonada esquerra, cantonada dreta, primera fila i última columna.
 #	seleccioneu els elements de la diagonal
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versió: 15.02.2017
 #       
 M = [	[1, 2, 3], 
 		[4, 5, 6],

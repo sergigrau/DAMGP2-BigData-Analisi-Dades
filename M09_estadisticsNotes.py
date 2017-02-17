@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 #	Fes un programa que pregunti les 3 notes trimestrals d'un alumnes, i mosti la seva mitjana i desviació estàndard.
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versió: 15.02.2017
 #
 import math
 

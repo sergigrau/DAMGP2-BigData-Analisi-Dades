@@ -3,8 +3,8 @@
 #	Definiu un diccionari amb les capitals de 5 estats europeus. 
 #	Mostreu un llistat de tot el diccionari, dels països, de les capitals,
 #	dels països ordenats i les seves capitals, i finalment de les capitals ordenades i els països als que corresponen.
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versió: 15.02.2017
 #       
 D = {'Espanya': 'Madrid', 'França': 'París', 'Italia': 'Roma', 'Regne Unit': 'Londres', 'Alemania': 'Berlin'}
 print (D) #mostra tot

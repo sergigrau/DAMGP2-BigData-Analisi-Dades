@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 #	Multipliqueu per dos tota la matriu de l'exercici 6
-#	autor: sergi grau
-#	versió: 21.01.2011
+#	autor: sergi.grau@fje.edu
+#	versi√≥: 15.02.2017
 #       
 M = [	[1, 2, 3], 
 		[4, 5, 6],
