@@ -1,0 +1,13 @@
+>>> 2+3
+5
+>>> x=2
+>>> y=3
+>>> z=x+y
+>>> z
+5
+>>> str(z)+' euro'
+'5 euro'
+>>> import sys
+>>> sys.platform
+'linux2'
+
