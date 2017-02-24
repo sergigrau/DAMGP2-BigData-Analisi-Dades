@@ -13,8 +13,8 @@ for i in range(3):
 	NOTES.append(int(input('entra una nota')))
 
 mitjana=sum(NOTES)/len(NOTES)	
-print('la nota mitjana és ',mitjana)
+print('la nota mitjana es ',mitjana)
 
 for i in range(3):
 	varianza += (NOTES[i]-mitjana)**2
-print('la desviació estàndard és ', math.sqrt(varianza))
+print('la desviacio estandard es ', math.sqrt(varianza))

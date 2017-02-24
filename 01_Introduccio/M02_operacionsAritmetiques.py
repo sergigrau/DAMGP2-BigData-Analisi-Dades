@@ -12,7 +12,7 @@ resta= x-y
 producte= x*y
 divisio= x/y #divisió entera truncant el resultat en 2.x //
 
-print ('el resultat de la suma és '+str(suma))
-print ('el resultat de la resta és '+str(resta))
-print ('el resultat del producte és '+str(producte))
-print ('el resultat de la divisio és '+str(divisio))
+print ('el resultat de la suma es '+str(suma))
+print ('el resultat de la resta es '+str(resta))
+print ('el resultat del producte es '+str(producte))
+print ('el resultat de la divisio es '+str(divisio))

@@ -10,5 +10,5 @@ minuts= int( (segons % 3600) /60)
 segons_r= segons % 60
 
 
-print (segons,' són', hores, 'hores' ,minuts , 'minut/s i', segons_r, ' segons')
+print (segons,' son', hores, 'hores' ,minuts , 'minut/s i', segons_r, ' segons')
 
