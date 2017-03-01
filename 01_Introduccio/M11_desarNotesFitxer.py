@@ -11,7 +11,7 @@
 import os
 
 def desarDades(llista, dirPath):
-	f = open(dirPath+'/M10_desarNotesFitxer.txt','a') 
+	f = open(dirPath+'/M11_desarNotesFitxer.txt','a') 
 	for x in llista:
 		f.write(x+"-"+str(llista[x])+"\n")
 	f.close()
