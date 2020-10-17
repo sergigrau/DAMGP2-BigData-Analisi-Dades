@@ -21,7 +21,7 @@ def sim_distancia(prefs, persona1, persona2):
     return 1 / (1 + suma_quadrats)
 
 
-#print(critiques['Sergi'])
-#print(critiques['Sergi']['Snakes on a Plane'])
+print(critiques['Sergi'])
+print(critiques['Sergi']['Alien'])
 
 print(sim_distancia(critiques,'Laura','Sergi'))
