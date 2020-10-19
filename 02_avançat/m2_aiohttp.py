@@ -6,7 +6,6 @@ import aiohttp
 import asyncio
 #Las corutinas declaradas con la sintaxis async/await definen funciones asicnronas 
 async def peticion_asincrona(session, url):
-    await asyncio.sleep(5)
     async with session.get(url) as response:
 	#await permite al bucle de eventos gestionar otra corutina
 #no se queda esperando obtener la respuesta y continúa la ejecución
@@ -16,9 +15,8 @@ async def peticion_asincrona(session, url):
 #connector=aiohttp.TCPConnector(verify_ssl=False)
 async def principal():
     async with aiohttp.ClientSession() as session:
-        html = await peticion_asincrona(session, 'https://www.uoc.edu')
+        html = await peticion_asincrona(session, 'https://www.fje.edu')
         print(html)
-    print('se ejecuta sin esperar al codigo asíncrono')
 
 if __name__ == '__main__':
     #el método run obtiene el bucle de eventos y pasa un primera corutina
