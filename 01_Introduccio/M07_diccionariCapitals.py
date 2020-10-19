@@ -6,7 +6,7 @@
 #	autor: sergi.grau@fje.edu
 #	versió: 15.02.2017
 #       
-D = {'Espanya': 'Madrid', 'Fransa': 'Paris', 'Italia': 'Roma', 'Regne Unit': 'Londres', 'Alemania': 'Berlin'}
+D = {'Espanya': 'Madrid', 'França': 'Paris', 'Italia': 'Roma', 'Regne Unit': 'Londres', 'Alemania': 'Berlin'}
 print (D) #mostra tot
 Ks = list(D.keys()) 
 print (Ks)
